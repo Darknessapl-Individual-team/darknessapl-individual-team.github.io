@@ -1,7 +1,3 @@
-## Earkness.github.io
-emm...(2)
-
 ## 相关链接
-- [成品](https://earkness.github.io/)
-- [项目的GitHub仓库](https://github.com/Earkness/Earkness.github.io)
-  
+- [成品](https://darknessapl-individual-team.github.io)
+- [项目的开源代码库仓库](https://github.com/Darknessapl-Individual-team/darknessapl-individual-team.github.io/tree/main)  
