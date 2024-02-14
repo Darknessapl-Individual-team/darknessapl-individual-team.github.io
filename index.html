@@ -12,9 +12,13 @@
             height: 150px;
             border-radius: 50%;
             border: 3px solid #ff0000;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 0 10px rgbaa(0, 0, 0, 0.5);
         }
     </style>
+<script>
+    document.addEventListener('contextmenu', event => event.preventDefault());
+    document.addEventListener('selectstart', event => event.preventDefault());
+</script>
 </head>
 <body>
     <header style="background-color: #333; padding: 20px; display: flex; align-items: center;">
@@ -30,6 +34,7 @@
             </p>
             <h2 style="color: #ff0000; font-size: 28px; text-transform: uppercase;">他妈的 我一定要做出来一个优质的PT同人!</h2>
             <h2 style="color: #ff0000; font-size: 28px; text-transform: uppercase;">原来你也玩PT</h2>
+            <h2 style="color: #ff0000; font-size: 28px; text-transform: uppercase;">源代码很简单 可以复制 但我相信是个人就能写出来</h2>
             <p style="color: #fff; font-size: 18px;"></p>
         </div>
     </main>
